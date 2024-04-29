@@ -1,0 +1,6 @@
+@WebDavServer_HostAddress = http://localhost:5115
+
+GET {{WebDavServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
