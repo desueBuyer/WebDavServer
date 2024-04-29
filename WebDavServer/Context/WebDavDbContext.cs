@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using WebDavServer.Models;
 
-namespace WebDavServer.Context;
 
 public partial class WebDavDbContext : DbContext
 {
